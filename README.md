@@ -38,7 +38,7 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 <br>
 <img src="https://streak-stats.demolab.com?user=ProstoSaniok&theme=transparent&hide_border=true&background=103017&ring=68E683&fire=41C45D&currStreakNum=68E683&currStreakLabel=DDD4A3&sideNums=68E683&sideLabels=DDD4A3&dates=41C45D"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProstoSaniok&bg_color=103017&color=68E683&line=41C45D&point=DDD4A3&hide_border=true"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProstoSaniok&bg_color=103017&color=68E683&line=41C45D&point=DDD4A3&hide_border=true"/> -->
 
 ## TECHNOLOGIES
 
