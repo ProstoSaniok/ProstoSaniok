@@ -13,20 +13,24 @@
 
 ## ABOUT
 
-Hi there! I'm Sasha, developer from Moscow with a diverse skill set.
+## About me
 
-My technical background started with robotics, which gave me a strong foundation in electronics and circuit engineering. Since then, I've deeply immersed myself in software development.
+Hi! I’m Alexander from Moscow, and I’m in class 11-T at School No. 57.
+My main interests are frontend development and design. I enjoy sketching ideas
+for websites and turning them into working interfaces. I also design posters
+and presentations.
 
-My core competencies:
+I’ve built Telegram bots using several languages and frameworks, and I’ve worked
+on both the frontend and backend of web projects.
 
-· **Full-Stack Web Development**: Python, Kotlin, React, Node.js, PostgreSQL, flask, FastApi
+I take part in programming competitions and hackathons.
+I’ve participated in are "PROD", "Vysshaya Proba", the All-Russian Olympiad for
+School Students, "DANO", and "NTO".
 
-· **Data Science & ML Engineering**: Big Data processing, data analysis, and machine learning. Python, Pandas, Numpy, Matplotlib, Scikit-learn, OpenCV, ClickHouse, DataLens
+Before I got into web development, I took part in robotics competitions and
+conferences. By ninth grade, I’d shifted my focus to software development.
 
-· **Telegram Bots & Game Development**: Creating interactive bots and PC games.
-
-I'm also a creative professional, skilled in graphic design for social media (Pinterest) and songwriting.
-
+Outside of tech, I write music and play chess.
 
 ## STATS
 <div>
@@ -43,21 +47,34 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 ## TECHNOLOGIES
 
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,cpp&perline=6&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,cpp&perline=7&titles=true)
+
+`Python · Kotlin · C++`
 
 ### Frontend Web
-![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,vue,angular,nodejs,bootstrap,html,css,javascript&perline=6&titles=true)
+![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,vue,angular,bootstrap,html,css,javascript&perline=7&titles=true)
+
+`HTML · CSS · JavaScript · React · Vue · Angular · Bootstrap`
 
 ### Backend Web
-![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,sqlalchemy,postgresql,sqlite,pytest,spring&perline=6&titles=true)
+![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,sqlalchemy,postgresql,sqlite&perline=7&titles=true)
+
+`FastAPI · Flask · SQLAlchemy · Spring · PostgreSQL · SQLite`
 
 ### Telegram Bots
-![Telegram Bots stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram,spring&perline=6&titles=true)
+![Telegram Bots stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram&perline=7&titles=true)
 
-Telebot | KotlinTelegramBot
+`aiogram · Telebot · KotlinTelegramBot · Spring`
+
+### Development & Testing
+![Development & Testing stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,docker&perline=7&titles=true)
+
+`Node.js · Docker · pytest`
 
 ### Other
-![Other stack](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=6&titles=true)
+![Other stack](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=7&titles=true)
+
+`Figma`
 
 ## CONTACTS
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&color=DDD4A3&logoColor=black)](https://t.me/ProstoSaniok)
