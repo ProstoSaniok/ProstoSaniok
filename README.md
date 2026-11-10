@@ -1,6 +1,6 @@
-<div align="center">
+<div align="start">
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=67E081&size=30&width=600&lines=Hi+there!;I'm+Prosto_Saniok;Welcome+to+my+GitHub!" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=67E081&size=30&width=600&lines=Hi+there!;I'm+ProstoSaniok;Welcome+to+my+GitHub!" /> 
   </a>
   <br>
   <a href="https://wakatime.com/@aaded748-8969-44fa-abfd-781875a7c205">
@@ -43,31 +43,21 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 ## TECHNOLOGIES
 
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,cpp,cs&perline=6&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,cpp&perline=6&titles=true)
 
 ### Frontend Web
-![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,bootstrap,html,css,javascript&perline=6&titles=true)
+![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,vue,angular,nodejs,bootstrap,html,css,javascript&perline=6&titles=true)
 
 ### Backend Web
 ![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,sqlalchemy,postgresql,sqlite,pytest,spring&perline=6&titles=true)
-
-### Big Data / Data Analysis / ML Engineer
-![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=jupiter,pandas,numpy,matplotlib,seaborn,clickhouse,sklearn&perline=6&titles=true)
-
-DataLens | OpenCV
 
 ### Telegram Bots
 ![Telegram Bots stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram,spring&perline=6&titles=true)
 
 Telebot | KotlinTelegramBot
 
-### PC Games
-![PC Games](https://go-skill-icons.vercel.app/api/icons?i=pygame,unity,godot&perline=6&titles=true)
-
 ### Other
 ![Other stack](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=6&titles=true)
-
-Capcut
 
 ## CONTACTS
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&color=DDD4A3&logoColor=black)](https://t.me/ProstoSaniok)
