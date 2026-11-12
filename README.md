@@ -13,8 +13,6 @@
 
 ## ABOUT
 
-## About me
-
 Hi! I’m Alexander from Moscow, and I’m in class 11-T at School No. 57.
 My main interests are frontend development and design. I enjoy sketching ideas
 for websites and turning them into working interfaces. I also design posters
